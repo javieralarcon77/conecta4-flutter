@@ -7,8 +7,10 @@ los retos del challenge de @mouredev
 
 # Screenshots
 
-![Estado vacio](./screens/empty-state.png)
-![Jugador gano](./screens/win-player.png)
+- Estado vacio
+  <img src="./screens/empty-state.png" style="height: 30%; width:30%;"/>
+- Jugador gano
+  <img src="./screens/win-player.png" style="height: 30%; width:30%;"/>
 
 ## Getting Started
 
