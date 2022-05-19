@@ -1,6 +1,14 @@
-# conecta4
+# Conecta 4
 
-A new Flutter project.
+Proyecto de flutter realizado siguiendo el reto de Enero de
+los retos del challenge de @mouredev
+
+- [Link de los retos](https://github.com/mouredev/Monthly-App-Challenge-2022)
+
+# Screenshots
+
+![Estado vacio](./screens/empty-state.png)
+![Jugador gano](./screens/win-player.png)
 
 ## Getting Started
 
